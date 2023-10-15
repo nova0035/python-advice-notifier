@@ -15,9 +15,14 @@ You can install the required libraries using pip:
 
 ```bash
 pip install plyer
+```
 
 # On Windows:
+```
 pythonw Main.py
+```
 
 # On other platforms (e.g., macOS and Linux):
+```
 python Main.py
+```
